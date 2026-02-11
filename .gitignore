@@ -5,6 +5,7 @@
 *.pdf
 docs/_build
 docs/api
+dist
 
 # Virtual environment
 .venv

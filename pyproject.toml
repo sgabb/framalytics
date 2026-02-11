@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ra-framalytics"
-version = "1.1.0"
+version = "1.1.1"
 description = "Python tools for the Functional Resonance Analysis Method (FRAM) - Fork for RA-FRAM"
 authors = [
     {name = "Terrence S. Tricco", email = "tstricco@mun.ca"},
